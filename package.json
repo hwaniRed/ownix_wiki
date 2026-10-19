@@ -1,0 +1,9 @@
+{
+  "name": "ownix-wiki",
+  "version": "1.0.0",
+  "private": true,
+  "description": "설치 없이 함께 쓰는 팀 위키 (Vercel + Upstash Redis, 또는 사내 서버 + JSON 파일)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
